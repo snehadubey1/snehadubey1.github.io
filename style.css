@@ -1,0 +1,47 @@
+h1{
+color:black;
+font-family:verdana;
+font-size:40px;
+padding:50px;
+background-color:lightgrey;
+}
+
+
+h3{
+font-size:20px;
+margin:30px;
+text-align:right;
+font-family:Courier new;
+}
+
+p1 {
+font-family:Courier new;
+text-align:right;
+display:list-item;
+margin:10px;
+}
+
+p{
+padding:10px;
+font-family:geneva;
+}
+
+
+body{
+ text-align:center;
+border:grey;
+border-width:7px;
+border-style:solid;
+font-size-adjust;
+margin:90px;
+}
+ul{
+list-style:disc;
+list-style-position:inside;
+
+text-align:left;
+}
+h2 {
+ text-align:left;
+margin:10px;
+}
